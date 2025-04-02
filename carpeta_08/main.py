@@ -3,3 +3,4 @@
 def suma(a, b):
     return a + b
     print('Fin de función')
+    return resultado 
